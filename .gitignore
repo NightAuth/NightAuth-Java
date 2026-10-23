@@ -1,0 +1,25 @@
+## Java / Build Outputs
+target/
+build/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+## Eclipse
+.classpath
+.project
+.settings/
+
+## IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+## Visual Studio Code
+.vscode/
+
+## Crash logs
+hs_err_pid*
+replay_pid*
